@@ -31,7 +31,7 @@ This repository aims to contribute to the community by sharing my experiences an
 - [Twitter](https://twitter.com/Musab1995)
 - [Facebook](https://facebook.com/imusabkhan)
 - [HackerOne](https://hackerone.com/musabkhan)
-- [Instagram](https://facebook.com/imusabkhan)
+- [Facebook](https://facebook.com/imusabkhan)
 - [Instagram](https://instagram.com/imusabkhan)
 
   
