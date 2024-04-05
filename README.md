@@ -10,3 +10,10 @@ This repository aims to contribute to the community by sharing my experiences an
 
 ## Writeups
 
+- **[Unveiling Homoglyph Attack: Silent Culprit of User-Level DOS Attacks](https://medium.com/@imusabkhan/unveiling-homoglyph-silent-culprit-of-user-level-dos-attacks-86a0576bca3a)**
+- **[A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6)**
+
+### Premium
+- **[Struggling RCE on Jenkins Instance](https://medium.com/@imusabkhan/struggling-rce-on-jenkins-instance-8851af98b7e6)**
+
+
