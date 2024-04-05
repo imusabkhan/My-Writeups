@@ -23,3 +23,15 @@ This repository aims to contribute to the community by sharing my experiences an
 - **[Struggling RCE on Jenkins Instance](https://medium.com/@imusabkhan/struggling-rce-on-jenkins-instance-8851af98b7e6)**
 
 
+## Social Profiles
+
+- [Medium](https://medium.com/@imusabkhan)
+- [YouTube](https://www.youtube.com/musabkhan)
+- [LinkedIn](https://www.linkedin.com/in/musab1995/)
+- [Twitter](https://twitter.com/Musab1995)
+- [Facebook](https://facebook.com/imusabkhan)
+- [HackerOne](https://hackerone.com/musabkhan)
+- [Instagram](https://facebook.com/imusabkhan)
+- [Instagram](https://instagram.com/imusabkhan)
+
+  
